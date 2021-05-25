@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'monitor-log'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c6f449a2aa5246cdb3cad1d3512886ec }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_90ee41f107d041d797c1a6138695f213 }}
